@@ -234,7 +234,7 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 ## ↑ turned 13 :: entered grade 8 ↑
 
-### learned that code can be written
+### Learned that code can be written
 
 Not until a friend of mine showed me that he could edit the source to a website did I realize
 that it was within my reach to write my own computer programs.
