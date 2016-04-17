@@ -243,7 +243,19 @@ that it was within my reach to write my own computer programs.
 
 ## ↑ turned 11 :: entered grade 6 ↑
 
+### Inspiration from late 1997: played Final Fantasy 7 for the first time
+
+Final Fantasy 7 blew Super Mario RPG out of the water for me. I spent countless hours playing
+FF7, poring over the strategy guide, even drawing the characters from the strategy guide.
+
+![FF7](photos/ff7.jpg)
+
 ## ↑ turned 10 :: entered grade 5 ↑
+
+### Inspiration from late 1996: played Super Mario RPG for the first time
+
+This was the first "RPG" I ever played. The characters + story + gameplay mechanics all drove
+me to play through the entire game in a way that no other game had for me to that point.
 
 ## ↑ turned 9 :: entered grade 4 ↑
 
