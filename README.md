@@ -17,32 +17,32 @@ past**. Creations are bucketed by month and I provide my annual birth date for a
 
 ### Today
 
-> Working at Google. I mentor teams interested in operating in the open. I advise on
-> designing shared software libraries that are used across Google's 80+ shipping iOS
-> applications. More and more I'm mentoring Googlers on the Swift language.
+Working at Google. I mentor teams interested in operating in the open. I advise on
+designing shared software libraries that are used across Google's 80+ shipping iOS
+applications. More and more I'm mentoring Googlers on the Swift language.
 
 Read my personal blog at [design.featherless.software](http://design.featherless.software/).
 
 ### 2015: August
 
-> Camped with Robot Heart at Burning Man for the second time. Rigged the lights for Shady Bot, the
-> Heart, and helped with Brandeaux.
+Camped with Robot Heart at Burning Man for the second time. Rigged the lights for Shady Bot, the
+Heart, and helped with Brandeaux.
 
 <h2 align="center">↑ turned 28 ↑</h2>
 
 ### 2014: November
 
-> Returned to work at Google on the [Material design team](https://design.google.com/) to complete
-> the work I started just before leaving in 2013.
+Returned to work at Google on the [Material design team](https://design.google.com/) to complete
+the work I started just before leaving in 2013.
 
 ### 2014: October
 
-> Lit Brandeaux for Robot Heart's annual halloween fundraiser.
+Lit Brandeaux for Robot Heart's annual halloween fundraiser.
 
 ### 2014: August
 
-> Camped with Robot Heart at Burning Man for the first time. Helped light up the Shady Bot art car.
-> Also left mid-way through burn week to fly directly to a friend's wedding in Toronto!
+Camped with Robot Heart at Burning Man for the first time. Helped light up the Shady Bot art car.
+Also left mid-way through burn week to fly directly to a friend's wedding in Toronto!
 
 [Learn more about ShadyBot](https://github.com/featherless/ShadyBot).
 
@@ -52,7 +52,7 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 
 ### 2013: August
 
-> Organized camp Pixel Heart + Buddha Lounge on the Burning Man esplanade at the 7:30 portal.
+Organized camp Pixel Heart + Buddha Lounge on the Burning Man esplanade at the 7:30 portal.
 
 [See pictures, schematics, and learn more about the Pixel Heart camp](https://github.com/featherless/PixelHeart-Esplanade)
 
@@ -62,7 +62,7 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 
 ### 2013: July
 
-> Brought the Pixel Heart to Lightning in a Bottle.
+Brought the Pixel Heart to Lightning in a Bottle.
 
 [See pictures and learn more about our Lightning in a Bottle experience](https://github.com/featherless/PixelHeart-LightningInABottle)
 
@@ -70,7 +70,7 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 
 ### 2013: April
 
-> I left the Google Maps iOS team after shipping v1.1 in order to travel.
+I left the Google Maps iOS team after shipping v1.1 in order to travel.
 
 I practiced my first official "step-down" process by going out of my way to hand off responsibility
 to other members of the team. [mog](https://github.com/stephanemoore), for example, took ownership
@@ -78,7 +78,7 @@ of much of the day-to-day nimbus maintenance.
 
 ### 2012: December
 
-> Shipped Google Maps iOS after just six months of development.
+Shipped Google Maps iOS after just six months of development.
 
 ![Screenshot](https://raw.githubusercontent.com/featherless/GoogleMaps-iOS/master/photos/google-maps-ios.jpg)
 
@@ -94,7 +94,7 @@ The app received high praise by the press:
 
 ### 2012: October
 
-> Built the "bottom drawer" gesture-driven interface as part of Google Maps iOS.
+Built the "bottom drawer" gesture-driven interface as part of Google Maps iOS.
 
 I took great care to polish the behavior of the bottom drawer. Notable behavior includes:
 
@@ -110,14 +110,14 @@ user for how to dismiss the content.
 
 ### 2012: February
 
-> Moved to a new team at Google.
+Moved to a new team at Google.
 
 I moved to the Google+ games iOS team where I built and documented
 [a significant amount of the API](https://developers.google.com/games/services/ios/quickstart).
 
 ### 2011: September
 
-> Started my first full-time salaried job at Google.
+Started my first full-time salaried job at Google.
 
 I joined the Google+ team. I initially worked on the Google+ iPad app.
 
@@ -125,7 +125,7 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 
 ### 2011: June
 
-> Started working on the [Nimbus iOS libraries](http://nimbuskit.info).
+Started working on the [Nimbus iOS libraries](http://nimbuskit.info).
 
 I joined the Google+ team. I initially worked on the Google+ iPad app.
 
@@ -141,8 +141,8 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 
 ### 2006: March
 
-> Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) in the
-  [72 hour game development competition](https://github.com/featherless/72hourgdc).
+Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) in the
+[72 hour game development competition](https://github.com/featherless/72hourgdc).
 
 [Get the source to the game and see some paper scribbles](https://github.com/featherless/HungerStrike).
 
@@ -168,13 +168,13 @@ Lost a significant amount of data due to a wiped hard drive.
 
 ### 2002: July
 
-> Composed simple songs in FruityLoops.
+Composed simple songs in FruityLoops.
 
 [Listen to them on Soundcloud](https://github.com/featherless/high-school-compositions).
 
 ### Early-to-mid 2002
 
-> Wrote a TI83+ programming tutorial.
+Wrote a TI83+ programming tutorial.
 
                              _   _    ___    _   _   _     _______    ___
                             | | | |  / _ \  | | | | | |   |__   __|  /   \
@@ -210,17 +210,17 @@ Lost a significant amount of data due to a wiped hard drive.
 
 ### 2002: February
 
-> Released Raging Flame 2: Legend of Krynn. [Learn more](https://github.com/featherless/ti83plus).
+Released Raging Flame 2: Legend of Krynn. [Learn more](https://github.com/featherless/ti83plus).
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/Raging%20Flame/v2.0/playthrough.gif)
 
 ### 2002: January
 
-> Released Epic: an interactive story. [Learn more](https://github.com/featherless/ti83plus).
+Released Epic: an interactive story. [Learn more](https://github.com/featherless/ti83plus).
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/epic/video.gif)
 
-> Released TileFlip, a bejeweled clone. [Learn more](https://github.com/featherless/ti83plus).
+Released TileFlip, a bejeweled clone. [Learn more](https://github.com/featherless/ti83plus).
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/tileflip/video.gif)
 
@@ -228,7 +228,7 @@ Lost a significant amount of data due to a wiped hard drive.
 
 ### 2001: June-August
 
-> Taught myself how to write TI83+ graphing calculator apps using TIBasic.
+Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 [View videos and screenshots of the games](https://github.com/featherless/ti83plus)
 
