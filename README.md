@@ -234,6 +234,20 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 <h2 align="center">↑ turned 13 :: entered grade 8 ↑</h2>
 
+<h2 align="center">↑ turned 7 :: cleaned my room and received my dad's old Amiga ↑</h2>
+
+This was my first distinct memory I have of working very hard for something that I wanted.
+I made that room *spotless*.
+
+Included:
+
+- Prince of Persia
+- King's Quest
+
+![Amiga](photos/amiga.jpg)
+
 <h2 align="center">↑ turned 5 :: received my first game boy ↑</h2>
+
+![Game Boy](photos/gameboy.jpg)
 
 <h3 align="center">Born in 1987</h3>
