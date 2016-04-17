@@ -294,6 +294,12 @@ Included:
 
 ## ↑ turned 5 :: received an original game boy ↑
 
+Games I remember owning:
+
+- Legend of Zelda
+- Bugs Bunny
+- Kirby's Dreamland
+
 ![Game Boy](photos/gameboy.jpg)
 
 ### Born in 1987
