@@ -154,6 +154,16 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 
 <h2 align="center">↑ turned 16 :: entered grade 11 ↑</h2>
 
+### 2003: February or March
+
+Lost a significant amount of data due to a wiped hard drive.
+
+> One note on the bad-side my computer's harddrive was wiped, therefor
+> clearing every single one of the calculator programs that I've ever created, so I lost most of the
+> new Raging Flame engine and such, but most of the stuff is recreatable, I just haven't really had
+> the will to do so recently, and I'm also developing video games for the computer now, so I guess
+> I've moved on, heh.
+
 <h2 align="center">↑ turned 15 :: entered grade 10 ↑</h2>
 
 ### 2002: July
@@ -223,5 +233,7 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 [View videos and screenshots of the games](https://github.com/featherless/ti83plus)
 
 <h2 align="center">↑ turned 13 :: entered grade 8 ↑</h2>
+
+<h2 align="center">↑ turned 5 :: received my first game boy ↑</h2>
 
 <h3 align="center">Born in 1987</h3>
