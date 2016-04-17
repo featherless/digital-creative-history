@@ -28,7 +28,7 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 Camped with Robot Heart at Burning Man for the second time. Rigged the lights for Shady Bot, the
 Heart, and helped with Brandeaux.
 
-<h2 align="center">↑ turned 28 ↑</h2>
+## ↑ turned 28 ↑
 
 ### 2014: November
 
@@ -48,7 +48,7 @@ Also left mid-way through burn week to fly directly to a friend's wedding in Tor
 
 ![Screenshot](https://github.com/featherless/ShadyBot/raw/master/photos/IMG_1721.JPG)
 
-<h2 align="center">↑ turned 27 ↑</h2>
+## ↑ turned 27 ↑
 
 ### 2013: August
 
@@ -58,7 +58,7 @@ Organized camp Pixel Heart + Buddha Lounge on the Burning Man esplanade at the 7
 
 ![Camp schematic](https://github.com/featherless/PixelHeart-Esplanade/raw/master/photos/schematic.jpg)
 
-<h2 align="center">↑ turned 26 ↑</h2>
+## ↑ turned 26 ↑
 
 ### 2013: July
 
@@ -106,7 +106,7 @@ One thing I would have liked to improve is for content to detach momentarily as 
 is taking effect the content. This would provide a better hint to the: a toss to the top
 user for how to dismiss the content.
 
-<h2 align="center">↑ turned 25 ↑</h2>
+## ↑ turned 25 ↑
 
 ### 2012: February
 
@@ -121,7 +121,7 @@ Started my first full-time salaried job at Google.
 
 I joined the Google+ team. I initially worked on the Google+ iPad app.
 
-<h2 align="center">↑ turned 24 ↑</h2>
+## ↑ turned 24 ↑
 
 ### 2011: June
 
@@ -129,15 +129,15 @@ Started working on the [Nimbus iOS libraries](http://nimbuskit.info).
 
 I joined the Google+ team. I initially worked on the Google+ iPad app.
 
-<h2 align="center">↑ turned 23 ↑</h2>
+## ↑ turned 23 ↑
 
-<h2 align="center">↑ turned 22 :: graduated university ↑</h2>
+## ↑ turned 22 :: graduated university ↑
 
-<h2 align="center">↑ turned 21 ↑</h2>
+## ↑ turned 21 ↑
 
-<h2 align="center">↑ turned 20 ↑</h2>
+## ↑ turned 20 ↑
 
-<h2 align="center">↑ turned 19 ↑</h2>
+## ↑ turned 19 ↑
 
 ### 2006: March
 
@@ -148,11 +148,11 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ![Screenshot](https://github.com/featherless/HungerStrike/raw/master/photos/shot1.gif)
 
-<h2 align="center">↑ turned 18 :: entered university ↑</h2>
+## ↑ turned 18 :: entered university ↑
 
-<h2 align="center">↑ turned 17 :: entered grade 12 ↑</h2>
+## ↑ turned 17 :: entered grade 12 ↑
 
-<h2 align="center">↑ turned 16 :: entered grade 11 ↑</h2>
+## ↑ turned 16 :: entered grade 11 ↑
 
 ### 2003: February or March
 
@@ -164,7 +164,7 @@ Lost a significant amount of data due to a wiped hard drive.
 > the will to do so recently, and I'm also developing video games for the computer now, so I guess
 > I've moved on, heh.
 
-<h2 align="center">↑ turned 15 :: entered grade 10 ↑</h2>
+## ↑ turned 15 :: entered grade 10 ↑
 
 ### 2002: July
 
@@ -224,7 +224,7 @@ Released TileFlip, a bejeweled clone. [Learn more](https://github.com/featherles
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/tileflip/video.gif)
 
-<h2 align="center">↑ turned 14 :: entered grade 9 ↑</h2>
+## ↑ turned 14 :: entered grade 9 ↑
 
 ### 2001: June-August
 
@@ -232,22 +232,22 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 [View videos and screenshots of the games](https://github.com/featherless/ti83plus)
 
-<h2 align="center">↑ turned 13 :: entered grade 8 ↑</h2>
+## ↑ turned 13 :: entered grade 8 ↑
 
-<h3 align="center">learned that code can be written</h3>
+### learned that code can be written
 
 Not until a friend of mine showed me that he could edit the source to a website did I realize
 that it was within my reach to write my own computer programs.
 
-<h2 align="center">↑ turned 12 :: entered grade 7 ↑</h2>
+## ↑ turned 12 :: entered grade 7 ↑
 
-<h2 align="center">↑ turned 11 :: entered grade 6 ↑</h2>
+## ↑ turned 11 :: entered grade 6 ↑
 
-<h2 align="center">↑ turned 10 :: entered grade 5 ↑</h2>
+## ↑ turned 10 :: entered grade 5 ↑
 
-<h2 align="center">↑ turned 9 :: entered grade 4 ↑</h2>
+## ↑ turned 9 :: entered grade 4 ↑
 
-<h2 align="center">↑ turned 8 :: entered grade 3 ↑</h2>
+## ↑ turned 8 :: entered grade 3 ↑
 
 I spent a good deal of my second and third grade years making "paper platformer" games.
 I would take a piece of paper, fold it down the middle vertical and then make four
@@ -264,9 +264,9 @@ games and play them on the bus instead.
 
 ![Paper games](photos/papergames.jpg)
 
-<h2 align="center">↑ turned 7 :: entered grade 2 ↑</h2>
+## ↑ turned 7 :: entered grade 2 ↑
 
-<h3 align="center">cleaned my room and received my dad's old Amiga</h3>
+### cleaned my room and received my dad's old Amiga
 
 This was my first distinct memory I have of working very hard for something that I wanted.
 I made that room *spotless*.
@@ -278,10 +278,10 @@ Included:
 
 ![Amiga](photos/amiga.jpg)
 
-<h2 align="center">↑ turned 6 :: entered grade 1 ↑</h2>
+## ↑ turned 6 :: entered grade 1 ↑
 
-<h2 align="center">↑ turned 5 :: received an original game boy ↑</h2>
+## ↑ turned 5 :: received an original game boy ↑
 
 ![Game Boy](photos/gameboy.jpg)
 
-<h3 align="center">Born in 1987</h3>
+### Born in 1987
