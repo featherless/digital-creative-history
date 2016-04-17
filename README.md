@@ -217,6 +217,15 @@ Wrote a TI83+ programming tutorial.
 
 [Read the rest in all its ASCII glory](https://github.com/featherless/ti83plus-tutorial).
 
+### Early 2002
+
+Created the TI Project Development Area website. Began hosting all of my TI83+ games and software on
+the site as well as writing tutorials.
+
+[Learn more about the site](https://github.com/featherless/ti83plus-site).
+
+![Screenshot](https://github.com/featherless/ti83plus-site/blob/master/photos/screenshot1.png)
+
 ### 2002: February
 
 Released Raging Flame 2: Legend of Krynn. [Learn more](https://github.com/featherless/ti83plus).
