@@ -234,7 +234,39 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 <h2 align="center">↑ turned 13 :: entered grade 8 ↑</h2>
 
-<h2 align="center">↑ turned 7 :: cleaned my room and received my dad's old Amiga ↑</h2>
+<h3 align="center">learned that code can be written</h3>
+
+Not until a friend of mine showed me that he could edit the source to a website did I realize
+that it was within my reach to write my own computer programs.
+
+<h2 align="center">↑ turned 12 :: entered grade 7 ↑</h2>
+
+<h2 align="center">↑ turned 11 :: entered grade 6 ↑</h2>
+
+<h2 align="center">↑ turned 10 :: entered grade 5 ↑</h2>
+
+<h2 align="center">↑ turned 9 :: entered grade 4 ↑</h2>
+
+<h2 align="center">↑ turned 8 :: entered grade 3 ↑</h2>
+
+I spent a good deal of my second and third grade years making "paper platformer" games.
+I would take a piece of paper, fold it down the middle vertical and then make four
+equally-spaced horizontal cuts. This allowed me to make a "book" with a front and back cover
+and 7 internal "full-width" pages.
+
+Each full-width page was a hand-drawn level that looked like a cut-out side view of a building.
+There were monsters that you'd have to blow up with bazookas, trampolines to jump over chasms
+with, and ladders to move between levels.
+
+Thinking back on it now, I think I may have been inspired by and attempting to recreate Bugs
+Bunny for the Game Boy. I wasn't allowed to bring my Game Boy to school, so I'd draw these paper
+games and play them on the bus instead.
+
+![Paper games](photos/papergames.jpg)
+
+<h2 align="center">↑ turned 7 :: entered grade 2 ↑</h2>
+
+<h3 align="center">cleaned my room and received my dad's old Amiga</h3>
 
 This was my first distinct memory I have of working very hard for something that I wanted.
 I made that room *spotless*.
@@ -245,6 +277,8 @@ Included:
 - King's Quest
 
 ![Amiga](photos/amiga.jpg)
+
+<h2 align="center">↑ turned 6 :: entered grade 1 ↑</h2>
 
 <h2 align="center">↑ turned 5 :: received my first game boy ↑</h2>
 
