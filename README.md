@@ -154,6 +154,15 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ## ↑ turned 16 :: entered grade 11 ↑
 
+### 2003: Summer
+
+Attended the National Youth Leadership Forum on Technology. This was the first time I visited the
+Bay Area.
+
+Prior to the event I collaborated with a group of other attendees to create "The Developers Alliance".
+As part of this group we built a game — Escape from the Funky Factory — and presented it at the
+conference.
+
 ### 2003: February or March
 
 Lost a significant amount of data due to a wiped hard drive.
