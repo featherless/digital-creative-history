@@ -280,7 +280,7 @@ Included:
 
 <h2 align="center">↑ turned 6 :: entered grade 1 ↑</h2>
 
-<h2 align="center">↑ turned 5 :: received my first game boy ↑</h2>
+<h2 align="center">↑ turned 5 :: received an original game boy ↑</h2>
 
 ![Game Boy](photos/gameboy.jpg)
 
