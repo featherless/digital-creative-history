@@ -244,13 +244,9 @@ Released Epic: an interactive story. [Learn more](https://github.com/featherless
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/epic/video.gif)
 
-Released TileFlip, a bejeweled clone. [Learn more](https://github.com/featherless/ti83plus).
-
-![Screenshot](https://github.com/featherless/ti83plus/raw/master/tileflip/video.gif)
-
 ## ↑ turned 14 :: entered grade 9 ↑
 
-### 2001: June-August
+### 2001: January
 
 Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
