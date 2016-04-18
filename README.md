@@ -181,6 +181,12 @@ Composed simple songs in FruityLoops.
 
 [Listen to them on Soundcloud](https://github.com/featherless/high-school-compositions).
 
+### 2002: April
+
+Began work on v3 of the Raging Flame TI83+ game.
+
+![Raging Flame 3](https://github.com/featherless/ti83plus/raw/master/Raging%20Flame/v3.0/tulin.gif)
+
 ### Early-to-mid 2002
 
 Wrote a TI83+ programming tutorial.
