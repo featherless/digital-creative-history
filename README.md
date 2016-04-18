@@ -143,17 +143,68 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 
 Started working on the [Nimbus iOS libraries](http://nimbuskit.info).
 
-I joined the Google+ team. I initially worked on the Google+ iPad app.
+### 2011: June
+
+I stopped working on the Facebook iPad app.
+
+### 2010: December
+
+Graduated from university.
 
 ## ↑ turned 23 ↑
 
-## ↑ turned 22 :: graduated university ↑
+### 2010: June
+
+I took on the Facebook iPad app project as the sole engineer. I worked closely with Brandon
+Walkin through this time.
+
+### 2010: May
+
+My mother passed away unexpectedly. I started a habit of writing notes of appreciation to
+people. Sometimes I give the note to the person. Sometimes I stick the note in a book I keep
+in a safe place. I also started making regular digital backups of my life including tax
+filings, employment information, landlord and rental information, and passwords to various
+accounts.
+
+### 2009: September to December
+
+Second internship at Facebook.
+
+I worked with Owen Yamauchi and Joe Hewitt on the Facebook iOS app. I took ownership of the
+Three20 project after the internship.
+
+## ↑ turned 22 ↑
+
+### 2009: January to April
+
+First internship at Facebook.
+
+I worked on chat.
 
 ## ↑ turned 21 ↑
 
+### 2008: May to August
+
+Internship at Google.
+
+I worked on the Google Calendar team. I made it so that event chips are the color of the calendar
+you're about to create them on (they used to just always be grey).
+
+### 2007: September to December
+
+Third internship at Sony Creative Software.
+
 ## ↑ turned 20 ↑
 
+### 2007: January to April
+
+Second internship at Sony Creative Software.
+
 ## ↑ turned 19 ↑
+
+### 2006: May to August
+
+First internship at Sony Creative Software.
 
 ### 2006: March
 
