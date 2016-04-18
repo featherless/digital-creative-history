@@ -23,6 +23,22 @@ applications. More and more I'm mentoring Googlers on the Swift language.
 
 Read my personal blog at [design.featherless.software](http://design.featherless.software/).
 
+### 2016: January
+
+I started learning how to mix electronic music using a Traktor Kontrol S2. I made a goal for myself
+to do two things as often as I could:
+
+- Listen to 100 new tracks from Soundcloud.
+- Make a mix.
+
+I listen to a lot of electronic music so I also spin a lot of different kinds of sets. I don't plan
+to focus on any one genre over another until I feel that my technical skills have developed. My
+primary goal is to keep having fun while doing this.
+
+[Listen to all sets I've made thus far on Soundcloud](https://soundcloud.com/featherless/sets/locally-grown-artisanal-sets).
+
+![DJ'ing](photos/dj.jpg)
+
 ### 2015: August
 
 Camped with Robot Heart at Burning Man for the second time. Rigged the lights for Shady Bot, the
