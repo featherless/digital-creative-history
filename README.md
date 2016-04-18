@@ -44,7 +44,13 @@ primary goal is to keep having fun while doing this.
 Camped with Robot Heart at Burning Man for the second time. Rigged the lights for Shady Bot, the
 Heart, and helped with Brandeaux.
 
-## ↑ turned 28 ↑
+
+
+<p align="center">↑ turned 28 ↑</p>
+
+---
+
+---
 
 ### 2014: November
 
@@ -64,7 +70,13 @@ Also left mid-way through burn week to fly directly to a friend's wedding in Tor
 
 ![Screenshot](https://github.com/featherless/ShadyBot/raw/master/photos/IMG_1721.JPG)
 
-## ↑ turned 27 ↑
+
+
+<p align="center">↑ turned 27 ↑</p>
+
+---
+
+---
 
 ### 2013: August
 
@@ -74,7 +86,13 @@ Organized camp Pixel Heart + Buddha Lounge on the Burning Man esplanade at the 7
 
 ![Camp schematic](https://github.com/featherless/PixelHeart-Esplanade/raw/master/photos/schematic.jpg)
 
-## ↑ turned 26 ↑
+
+
+<p align="center">↑ turned 26 ↑</p>
+
+---
+
+---
 
 ### 2013: July
 
@@ -122,7 +140,13 @@ One thing I would have liked to improve is for content to detach momentarily as 
 is taking effect the content. This would provide a better hint to the: a toss to the top
 user for how to dismiss the content.
 
-## ↑ turned 25 ↑
+
+
+<p align="center">↑ turned 25 ↑</p>
+
+---
+
+---
 
 ### 2012: February
 
@@ -137,7 +161,13 @@ Started my first full-time salaried job at Google.
 
 I joined the Google+ team. I initially worked on the Google+ iPad app.
 
-## ↑ turned 24 ↑
+
+
+<p align="center">↑ turned 24 ↑</p>
+
+---
+
+---
 
 ### 2011: June
 
@@ -151,7 +181,13 @@ I stopped working on the Facebook iPad app.
 
 Graduated from university.
 
-## ↑ turned 23 ↑
+
+
+<p align="center">↑ turned 23 ↑</p>
+
+---
+
+---
 
 ### 2010: June
 
@@ -173,7 +209,13 @@ Second internship at Facebook.
 I worked with Owen Yamauchi and Joe Hewitt on the Facebook iOS app. I took ownership of the
 Three20 project after the internship.
 
-## ↑ turned 22 ↑
+
+
+<p align="center">↑ turned 22 ↑</p>
+
+---
+
+---
 
 ### 2009: January to April
 
@@ -181,7 +223,13 @@ First internship at Facebook.
 
 I worked on chat.
 
-## ↑ turned 21 ↑
+
+
+<p align="center">↑ turned 21 ↑</p>
+
+---
+
+---
 
 ### 2008: May to August
 
@@ -194,13 +242,25 @@ you're about to create them on (they used to just always be grey).
 
 Third internship at Sony Creative Software.
 
-## ↑ turned 20 ↑
+
+
+<p align="center">↑ turned 20 ↑</p>
+
+---
+
+---
 
 ### 2007: January to April
 
 Second internship at Sony Creative Software.
 
-## ↑ turned 19 ↑
+
+
+<p align="center">↑ turned 19 ↑</p>
+
+---
+
+---
 
 ### 2006: May to August
 
@@ -215,11 +275,29 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ![Screenshot](https://github.com/featherless/HungerStrike/raw/master/photos/shot1.gif)
 
-## ↑ turned 18 :: entered university ↑
 
-## ↑ turned 17 :: entered grade 12 ↑
 
-## ↑ turned 16 :: entered grade 11 ↑
+<p align="center">↑ turned 18 :: entered university ↑</p>
+
+---
+
+---
+
+
+
+<p align="center">↑ turned 17 :: entered grade 12 ↑</p>
+
+---
+
+---
+
+
+
+<p align="center">↑ turned 16 :: entered grade 11 ↑</p>
+
+---
+
+---
 
 ### 2003: Summer
 
@@ -240,7 +318,13 @@ Lost a significant amount of data due to a wiped hard drive.
 > the will to do so recently, and I'm also developing video games for the computer now, so I guess
 > I've moved on, heh.
 
-## ↑ turned 15 :: entered grade 10 ↑
+
+
+<p align="center">↑ turned 15 :: entered grade 10 ↑</p>
+
+---
+
+---
 
 ### 2002: July
 
@@ -311,7 +395,13 @@ Released Epic: an interactive story. [Learn more](https://github.com/featherless
 
 ![Screenshot](https://github.com/featherless/ti83plus/raw/master/epic/video.gif)
 
-## ↑ turned 14 :: entered grade 9 ↑
+
+
+<p align="center">↑ turned 14 :: entered grade 9 ↑</p>
+
+---
+
+---
 
 ### 2001: January
 
@@ -319,16 +409,34 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 [View videos and screenshots of the games](https://github.com/featherless/ti83plus)
 
-## ↑ turned 13 :: entered grade 8 ↑
+
+
+<p align="center">↑ turned 13 :: entered grade 8 ↑</p>
+
+---
+
+---
 
 ### Learned that code can be written
 
 Not until a friend of mine showed me that he could edit the source to a website did I realize
 that it was within my reach to write my own computer programs.
 
-## ↑ turned 12 :: entered grade 7 ↑
 
-## ↑ turned 11 :: entered grade 6 ↑
+
+<p align="center">↑ turned 12 :: entered grade 7 ↑</p>
+
+---
+
+---
+
+
+
+<p align="center">↑ turned 11 :: entered grade 6 ↑</p>
+
+---
+
+---
 
 ### Inspiration from late 1997: played Final Fantasy 7 for the first time
 
@@ -337,16 +445,34 @@ FF7, poring over the strategy guide, even drawing the characters from the strate
 
 ![FF7](photos/ff7.jpg)
 
-## ↑ turned 10 :: entered grade 5 ↑
+
+
+<p align="center">↑ turned 10 :: entered grade 5 ↑</p>
+
+---
+
+---
 
 ### Inspiration from late 1996: played Super Mario RPG for the first time
 
 This was the first "RPG" I ever played. The characters + story + gameplay mechanics all drove
 me to play through the entire game in a way that no other game had for me to that point.
 
-## ↑ turned 9 :: entered grade 4 ↑
 
-## ↑ turned 8 :: entered grade 3 ↑
+
+<p align="center">↑ turned 9 :: entered grade 4 ↑</p>
+
+---
+
+---
+
+
+
+<p align="center">↑ turned 8 :: entered grade 3 ↑</p>
+
+---
+
+---
 
 I spent a good deal of my second and third grade years making "paper platformer" games.
 I would take a piece of paper, fold it down the middle vertical and then make four
@@ -363,7 +489,13 @@ games and play them on the bus instead.
 
 ![Paper games](photos/papergames.jpg)
 
-## ↑ turned 7 :: entered grade 2 ↑
+
+
+<p align="center">↑ turned 7 :: entered grade 2 ↑</p>
+
+---
+
+---
 
 ### cleaned my room and received my dad's old Amiga
 
@@ -377,9 +509,21 @@ Included:
 
 ![Amiga](photos/amiga.jpg)
 
-## ↑ turned 6 :: entered grade 1 ↑
 
-## ↑ turned 5 :: received an original game boy ↑
+
+<p align="center">↑ turned 6 :: entered grade 1 ↑</p>
+
+---
+
+---
+
+
+
+<p align="center">↑ turned 5 :: received an original game boy ↑</p>
+
+---
+
+---
 
 Games I remember owning:
 
@@ -389,4 +533,9 @@ Games I remember owning:
 
 ![Game Boy](photos/gameboy.jpg)
 
-### Born in 1987
+
+<p align="center">↑ Born in 1987 ↑</p>
+
+---
+
+---
