@@ -27,13 +27,13 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 
 Had a blast making one hour of a 24 hour mix collection of music with a friend.
 
+[The Facebook post](https://www.facebook.com/photo.php?fbid=10102507563304900&set=a.10101448998781690.2346833.6912638&type=3&theater)
+
 [Check out the entire 24 hours](http://0024soundtrack2016.tumblr.com/)
 
 [Our mix, under the name m i t t e n s n m o c h i](https://soundcloud.com/mittensnmochi/2300h)
 
 ![Disc](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/942229_10102507563304900_6307104778981752300_n.jpg?oh=b22f124dedab00c2c18c86e571267b2d&oe=57759488)
-
-https://www.facebook.com/photo.php?fbid=10102507563304900&set=a.10101448998781690.2346833.6912638&type=3&theater
 
 ### 2016: January
 
