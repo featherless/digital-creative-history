@@ -333,6 +333,12 @@ Lost a significant amount of data due to a wiped hard drive.
 > the will to do so recently, and I'm also developing video games for the computer now, so I guess
 > I've moved on, heh.
 
+### 2002: November
+
+Began my biggest project yet: [Blood Right for the computer](https://github.com/featherless/2002-2003-Blood-Right).
+
+![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
+
 ### 2002: Fall
 
 Created my first OpenGL C++ game: [Asteridiaz](https://github.com/featherless/2002-Asteridiaz).
