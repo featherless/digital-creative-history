@@ -486,18 +486,17 @@ me to play through the entire game in a way that no other game had for me to tha
 
 ---
 
-I spent a good deal of my second and third grade years making "paper platformer" games.
-I would take a piece of paper, fold it down the middle vertical and then make four
-equally-spaced horizontal cuts. This allowed me to make a "book" with a front and back cover
-and 7 internal "full-width" pages.
+During my second and third grade years I made "paper platformer" games. I would take a piece
+of paper, fold it down the middle vertical and then make four equally-spaced horizontal cuts.
+This allowed me to make a "book" with a front and back cover and 7 internal "full-width" pages.
 
 Each full-width page was a hand-drawn level that looked like a cut-out side view of a building.
 There were monsters that you'd have to blow up with bazookas, trampolines to jump over chasms
 with, and ladders to move between levels.
 
-Thinking back on it now, I think I may have been inspired by and attempting to recreate Bugs
-Bunny for the Game Boy. I wasn't allowed to bring my Game Boy to school, so I'd draw these paper
-games and play them on the bus instead.
+Thinking back on it now, I may have been attempting to recreate Bugs Bunny for the Game Boy.
+I wasn't allowed to bring my Game Boy to school, so I'd draw these paper games and play them
+on the bus instead.
 
 ![Paper games](photos/papergames.jpg)
 
@@ -521,21 +520,13 @@ Included:
 
 ![Amiga](photos/amiga.jpg)
 
-
-
 <p align="center">↑ turned 6 :: entered grade 1 ↑</p>
 
 ---
 
 ---
 
-
-
-<p align="center">↑ turned 5 :: received an original game boy ↑</p>
-
----
-
----
+### received an original Game Boy
 
 Games I remember owning:
 
@@ -544,6 +535,13 @@ Games I remember owning:
 - Kirby's Dreamland
 
 ![Game Boy](photos/gameboy.jpg)
+
+
+<p align="center">↑ turned 5 ↑</p>
+
+---
+
+---
 
 
 <p align="center">↑ Born in 1987 ↑</p>
