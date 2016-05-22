@@ -348,6 +348,10 @@ Composed simple songs in FruityLoops.
 
 Began learning C++ by making [simple DOS games](https://github.com/featherless/2002-dos-games).
 
+Arcade:
+
+![Arcade](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Arcade version 0.10/preview.gif)
+
 Roidian:
 
 ![Roidian](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Roidian version 0.20/preview.gif)
