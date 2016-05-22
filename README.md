@@ -356,6 +356,8 @@ Galaxiados:
 
 ![Galaxiados](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Galaxiados version 0.20/preview.gif)
 
+![Galaxiados](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Galaxiados version 0.10/preview.gif)
+
 ### 2002: April
 
 Began work on v3 of the Raging Flame TI83+ game.
