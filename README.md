@@ -281,7 +281,7 @@ First internship at Sony Creative Software.
 ### 2006: March
 
 Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) in the
-[72 hour game development competition](https://github.com/featherless/72hourgdc).
+[72 hour game development competition](https://github.com/featherless/2003-2006-72hourgdc).
 
 [Get the source to the game and see some paper scribbles](https://github.com/featherless/HungerStrike).
 
