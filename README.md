@@ -285,6 +285,9 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 [Get the source to the game and see some paper scribbles](https://github.com/featherless/HungerStrike).
 
+![Level 1](https://raw.githubusercontent.com/featherless/2006-HungerStrike/master/photos/level1.gif)
+![Level 2](https://raw.githubusercontent.com/featherless/2006-HungerStrike/master/photos/level2.gif)
+
 ![Screenshot](https://github.com/featherless/HungerStrike/raw/master/photos/shot1.gif)
 
 
