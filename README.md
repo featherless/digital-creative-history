@@ -339,6 +339,8 @@ Working on the 3d version of the [Blood Right](https://github.com/featherless/20
 
 ![3d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3dengine.gif)
 
+![video](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/render.gif)
+
 ### 2003: January
 
 Created a new game called [JetPack Jack](https://github.com/featherless/2003-JetPack-Jack).
