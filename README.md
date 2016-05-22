@@ -337,6 +337,8 @@ Lost a significant amount of data due to a wiped hard drive.
 
 Began my biggest project yet: [Blood Right for the computer](https://github.com/featherless/2002-2003-Blood-Right).
 
+![3d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3dengine.gif)
+
 ![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
 
 ### 2002: Fall
