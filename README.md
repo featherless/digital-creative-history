@@ -330,6 +330,11 @@ Lost a significant amount of data due to a wiped hard drive.
 > the will to do so recently, and I'm also developing video games for the computer now, so I guess
 > I've moved on, heh.
 
+### 2002: Fall
+
+Created my first OpenGL C++ game: [Asteridiaz](https://github.com/featherless/2002-Asteridiaz).
+
+![Asteridiaz](https://raw.githubusercontent.com/featherless/2002-Asteridiaz/master/gfx/preview.gif)
 
 
 <p align="center">↑ turned 15 :: entered grade 10 :: 2002 ↑</p>
