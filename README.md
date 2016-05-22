@@ -344,6 +344,12 @@ Composed simple songs in FruityLoops.
 
 [Listen to them on Soundcloud](https://github.com/featherless/high-school-compositions).
 
+### 2002: June
+
+Began learning C++ by making simple DOS games.
+
+![Galaxiados](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Galaxiados version 0.20/preview.gif)
+
 ### 2002: April
 
 Began work on v3 of the Raging Flame TI83+ game.
