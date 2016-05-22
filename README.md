@@ -58,7 +58,7 @@ Heart, and helped with Brandeaux.
 
 
 
-<p align="center">↑ turned 28 ↑</p>
+<p align="center">↑ turned 28 :: 2015 ↑</p>
 
 ---
 
@@ -84,7 +84,7 @@ Also left mid-way through burn week to fly directly to a friend's wedding in Tor
 
 
 
-<p align="center">↑ turned 27 ↑</p>
+<p align="center">↑ turned 27 :: Returned to Google :: 2014 ↑</p>
 
 ---
 
@@ -100,7 +100,7 @@ Organized camp Pixel Heart + Buddha Lounge on the Burning Man esplanade at the 7
 
 
 
-<p align="center">↑ turned 26 ↑</p>
+<p align="center">↑ turned 26 :: Went backpacking :: 2013 ↑</p>
 
 ---
 
@@ -154,7 +154,7 @@ user for how to dismiss the content.
 
 
 
-<p align="center">↑ turned 25 ↑</p>
+<p align="center">↑ turned 25 :: Launched Google Maps iOS :: 2012 ↑</p>
 
 ---
 
@@ -175,7 +175,7 @@ I joined the Google+ team. I initially worked on the Google+ iPad app.
 
 
 
-<p align="center">↑ turned 24 ↑</p>
+<p align="center">↑ turned 24 :: joined Google full time :: 2011 ↑</p>
 
 ---
 
@@ -195,7 +195,7 @@ Graduated from university.
 
 
 
-<p align="center">↑ turned 23 ↑</p>
+<p align="center">↑ turned 23 :: graduated university :: 2010 ↑</p>
 
 ---
 
@@ -223,7 +223,7 @@ Three20 project after the internship.
 
 
 
-<p align="center">↑ turned 22 ↑</p>
+<p align="center">↑ turned 22 :: entered fifth year of university :: 2009 ↑</p>
 
 ---
 
@@ -237,7 +237,7 @@ I worked on chat.
 
 
 
-<p align="center">↑ turned 21 ↑</p>
+<p align="center">↑ turned 21 :: entered fourth year of university :: 2008 ↑</p>
 
 ---
 
@@ -256,7 +256,7 @@ Third internship at Sony Creative Software.
 
 
 
-<p align="center">↑ turned 20 ↑</p>
+<p align="center">↑ turned 20 :: entered third year of university :: 2007 ↑</p>
 
 ---
 
@@ -268,7 +268,7 @@ Second internship at Sony Creative Software.
 
 
 
-<p align="center">↑ turned 19 ↑</p>
+<p align="center">↑ turned 19 :: entered second year of university :: 2006 ↑</p>
 
 ---
 
@@ -289,7 +289,7 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 
 
-<p align="center">↑ turned 18 :: entered university ↑</p>
+<p align="center">↑ turned 18 :: entered university :: 2005 ↑</p>
 
 ---
 
@@ -297,7 +297,7 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 
 
-<p align="center">↑ turned 17 :: entered grade 12 ↑</p>
+<p align="center">↑ turned 17 :: entered grade 12 :: 2004 ↑</p>
 
 ---
 
@@ -305,7 +305,7 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 
 
-<p align="center">↑ turned 16 :: entered grade 11 ↑</p>
+<p align="center">↑ turned 16 :: entered grade 11 :: 2003 ↑</p>
 
 ---
 
@@ -332,7 +332,7 @@ Lost a significant amount of data due to a wiped hard drive.
 
 
 
-<p align="center">↑ turned 15 :: entered grade 10 ↑</p>
+<p align="center">↑ turned 15 :: entered grade 10 :: 2002 ↑</p>
 
 ---
 
@@ -409,7 +409,7 @@ Released Epic: an interactive story. [Learn more](https://github.com/featherless
 
 
 
-<p align="center">↑ turned 14 :: entered grade 9 ↑</p>
+<p align="center">↑ turned 14 :: entered grade 9 :: 2001 ↑</p>
 
 ---
 
@@ -423,7 +423,7 @@ Taught myself how to write TI83+ graphing calculator apps using TIBasic.
 
 
 
-<p align="center">↑ turned 13 :: entered grade 8 ↑</p>
+<p align="center">↑ turned 13 :: entered grade 8 :: 2000 ↑</p>
 
 ---
 
@@ -436,7 +436,7 @@ that it was within my reach to write my own computer programs.
 
 
 
-<p align="center">↑ turned 12 :: entered grade 7 ↑</p>
+<p align="center">↑ turned 12 :: entered grade 7 :: 1999 ↑</p>
 
 ---
 
@@ -444,7 +444,7 @@ that it was within my reach to write my own computer programs.
 
 
 
-<p align="center">↑ turned 11 :: entered grade 6 ↑</p>
+<p align="center">↑ turned 11 :: entered grade 6 :: 1998 ↑</p>
 
 ---
 
@@ -459,7 +459,7 @@ FF7, poring over the strategy guide, even drawing the characters from the strate
 
 
 
-<p align="center">↑ turned 10 :: entered grade 5 ↑</p>
+<p align="center">↑ turned 10 :: entered grade 5 :: 1997 ↑</p>
 
 ---
 
@@ -472,7 +472,7 @@ me to play through the entire game in a way that no other game had for me to tha
 
 
 
-<p align="center">↑ turned 9 :: entered grade 4 ↑</p>
+<p align="center">↑ turned 9 :: entered grade 4 :: 1996 ↑</p>
 
 ---
 
@@ -480,7 +480,7 @@ me to play through the entire game in a way that no other game had for me to tha
 
 
 
-<p align="center">↑ turned 8 :: entered grade 3 ↑</p>
+<p align="center">↑ turned 8 :: entered grade 3 :: 1995 ↑</p>
 
 ---
 
@@ -502,7 +502,7 @@ on the bus instead.
 
 
 
-<p align="center">↑ turned 7 :: entered grade 2 ↑</p>
+<p align="center">↑ turned 7 :: entered grade 2 :: 1994 ↑</p>
 
 ---
 
@@ -520,7 +520,7 @@ Included:
 
 ![Amiga](photos/amiga.jpg)
 
-<p align="center">↑ turned 6 :: entered grade 1 ↑</p>
+<p align="center">↑ turned 6 :: entered grade 1 :: 1993 ↑</p>
 
 ---
 
@@ -537,7 +537,7 @@ Games I remember owning:
 ![Game Boy](photos/gameboy.jpg)
 
 
-<p align="center">↑ turned 5 ↑</p>
+<p align="center">↑ turned 5 :: 1992 ↑</p>
 
 ---
 
