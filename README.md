@@ -346,9 +346,13 @@ Composed simple songs in FruityLoops.
 
 ### 2002: June
 
-Began learning C++ by making simple DOS games.
+Began learning C++ by making [simple DOS games](https://github.com/featherless/2002-dos-games).
+
+Roidian:
 
 ![Roidian](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Roidian version 0.20/preview.gif)
+
+Galaxiados:
 
 ![Galaxiados](https://raw.githubusercontent.com/featherless/2002-dos-games/master/Galaxiados version 0.20/preview.gif)
 
