@@ -306,7 +306,12 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ---
 
+### 2004: March
 
+Rebuilt the [Blood Right 3D engine](https://github.com/featherless/2002-2004-Blood-Right) again, this time with support
+for loading real models, moving entities, and particle systems.
+
+![3d engine v2](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3denginev2.gif)
 
 <p align="center">↑ turned 16 :: entered grade 11 :: 2003 ↑</p>
 
