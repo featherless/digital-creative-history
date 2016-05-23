@@ -315,6 +315,12 @@ for loading real models, moving entities, and particle systems.
 
 ![3d engine v2](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/3denginev2.gif)
 
+### 2004: January
+
+Launched [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFiles), my personal website:
+
+![Logo](https://raw.githubusercontent.com/featherless/2004-2007-TheJeffFiles/master/gfx/logo2.gif)
+
 <p align="center">↑ turned 16 :: entered grade 11 :: 2003 ↑</p>
 
 ---
