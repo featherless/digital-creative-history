@@ -342,6 +342,40 @@ Prior to the event I collaborated with a group of other attendees to create "The
 As part of this group we built a game — Escape from the Funky Factory — and presented it at the
 conference.
 
+### 2003: March
+
+Created the [Script-and-Go scripting language for OpenGL](https://github.com/featherless/2003-script-and-go).
+
+    /*  Script-and-Go code by Jeff Verkoeyen,
+    	created 2003	*/
+    
+    VARIABLES;
+    	@int integer;
+    	@float integer2;
+    	@char testing;
+    
+    	testing="hey";
+    
+    	integer2=34;
+    
+    BEGIN;
+    	integer+234;
+    	DrawMode("front","lines");
+    	Reset;							// Equivalent to LoadIdentity
+    	DisableTextures;				// Disables the textures
+    	Move(0,0,-100);					// Moves the line back on the z-plane
+    	SetColor(1.0f,0.5f,0.25f,0.0f);	// Sets the color to orange
+    	DrawLine(0,0,0,38,20,0);		// Draws the line
+    	DrawLine(30,20,0,-10,-30,40);	// Draws another line, but closer
+    
+    	Reset;
+    	Move(0,0,-100);
+    	SetColor(1.0f,1.0f,0.0f,0.5f);
+    	Rotate(integer,1.0f,0.0f,0.0f);
+    	Move(10,20,0);
+    	Box(-10,10,0,10,10,0,10,-10,0,-10,-10,0);
+    END;
+
 ### 2003: February or March
 
 Lost a significant amount of data due to a wiped hard drive.
