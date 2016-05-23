@@ -290,15 +290,17 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ![Screenshot](https://github.com/featherless/HungerStrike/raw/master/photos/shot1.gif)
 
-
-
 <p align="center">↑ turned 18 :: entered university :: 2005 ↑</p>
 
 ---
 
 ---
 
+### 2005: Summer
 
+Redesigned TheJeffFiles.com.
+
+![TheJeffFiles.com](https://raw.githubusercontent.com/featherless/2004-2007-TheJeffFiles/master/gfx/2005-summer.png)
 
 <p align="center">↑ turned 17 :: entered grade 12 :: 2004 ↑</p>
 
