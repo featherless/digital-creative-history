@@ -308,6 +308,12 @@ Redesigned [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFi
 
 ---
 
+### 2004: Summer
+
+Created a [LWO file format renderer](https://github.com/featherless/2004-lwo-renderer).
+
+![LWO Renderer](https://raw.githubusercontent.com/featherless/2004-lwo-renderer/master/lworender.jpg)
+
 ### 2004: March
 
 Rebuilt the [Blood Right 3D engine](https://github.com/featherless/2002-2004-Blood-Right) again, this time with support
