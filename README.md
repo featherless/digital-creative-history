@@ -298,7 +298,7 @@ Won 1st place for [Hunger Strike!](https://github.com/featherless/HungerStrike) 
 
 ### 2005: Summer
 
-Redesigned TheJeffFiles.com.
+Redesigned [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFiles).
 
 ![TheJeffFiles.com](https://raw.githubusercontent.com/featherless/2004-2007-TheJeffFiles/master/gfx/2005-summer.png)
 
