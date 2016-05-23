@@ -366,6 +366,12 @@ Began my biggest project yet: [Blood Right for the computer](https://github.com/
 
 ![2d engine](https://raw.githubusercontent.com/featherless/2002-2003-Blood-Right/master/videos/2dengine.gif)
 
+### 2002: October
+
+Wrote a [beginner's C++ tutorial](https://github.com/featherless/2002-cplusplus-tutorial)
+
+![C++ tutorial](https://raw.githubusercontent.com/featherless/2002-cplusplus-tutorial/master/cplusplus.png)
+
 ### 2002: Fall
 
 Created my first OpenGL C++ game: [Asteridiaz](https://github.com/featherless/2002-Asteridiaz).
