@@ -337,7 +337,7 @@ Launched [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFile
 
 Made a garage sale application.
 
-![Screenshot](https://raw.githubusercontent.com/featherless/2003-GarageSale/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/featherless/2003-GarageSale/master/gfx/screenshot.png)
 
 ### 2003: Summer
 
