@@ -333,6 +333,12 @@ Launched [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFile
 
 ---
 
+### 2003: July
+
+Made a garage sale application.
+
+![Screenshot](https://raw.githubusercontent.com/featherless/2003-GarageSale/master/screenshot.png)
+
 ### 2003: Summer
 
 Attended the National Youth Leadership Forum on Technology. This was the first time I visited the
