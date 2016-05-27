@@ -572,10 +572,6 @@ that it was within my reach to write my own computer programs.
 
 ---
 
-![FF7](photos/ff7.jpg)
-
-
-
 <p align="center">↑ turned 10 :: entered grade 5 :: 1997 ↑</p>
 
 ---
