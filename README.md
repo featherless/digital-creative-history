@@ -335,7 +335,7 @@ Launched [TheJeffFiles.com](https://github.com/featherless/2004-2007-TheJeffFile
 
 ### 2003: July
 
-Made a garage sale application.
+Made a [garage sale application](https://github.com/featherless/2003-GarageSale).
 
 ![Screenshot](https://raw.githubusercontent.com/featherless/2003-GarageSale/master/gfx/screenshot.png)
 
@@ -347,6 +347,12 @@ Bay Area.
 Prior to the event I collaborated with a group of other attendees to create "The Developers Alliance".
 As part of this group we built a game — Escape from the Funky Factory — and presented it at the
 conference.
+
+### 2003: May 3 to July 26
+
+Created [Escape from the Funky Factory](https://github.com/featherless/2003-EscapeFromTheFunkyFactory) in collaboration with The Developers Alliance.
+
+![Screenshot](https://raw.githubusercontent.com/featherless/2003-EscapeFromTheFunkyFactory/master/gfx/preview.gif)
 
 ### 2003: March
 
