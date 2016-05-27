@@ -572,11 +572,6 @@ that it was within my reach to write my own computer programs.
 
 ---
 
-### Inspiration from late 1997: played Final Fantasy 7 for the first time
-
-Final Fantasy 7 blew Super Mario RPG out of the water for me. I spent countless hours playing
-FF7, poring over the strategy guide, even drawing the characters from the strategy guide.
-
 ![FF7](photos/ff7.jpg)
 
 
@@ -586,11 +581,6 @@ FF7, poring over the strategy guide, even drawing the characters from the strate
 ---
 
 ---
-
-### Inspiration from late 1996: played Super Mario RPG for the first time
-
-This was the first "RPG" I ever played. The characters + story + gameplay mechanics all drove
-me to play through the entire game in a way that no other game had for me to that point.
 
 
 
@@ -630,33 +620,9 @@ on the bus instead.
 
 ---
 
-### cleaned my room and received my dad's old Amiga
-
-This was my first distinct memory I have of working very hard for something that I wanted.
-I made that room *spotless*.
-
-Included:
-
-- Prince of Persia
-- King's Quest
-
-![Amiga](photos/amiga.jpg)
-
-<p align="center">↑ turned 6 :: entered grade 1 :: 1993 ↑</p>
-
 ---
 
 ---
-
-### received an original Game Boy
-
-Games I remember owning:
-
-- Legend of Zelda
-- Bugs Bunny
-- Kirby's Dreamland
-
-![Game Boy](photos/gameboy.jpg)
 
 
 <p align="center">↑ turned 5 :: 1992 ↑</p>
