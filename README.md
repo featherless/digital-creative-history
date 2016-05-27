@@ -620,6 +620,8 @@ on the bus instead.
 
 ---
 
+<p align="center">↑ turned 6 :: entered grade 1 :: 1993 ↑</p>
+
 ---
 
 ---
