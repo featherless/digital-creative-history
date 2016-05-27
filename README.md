@@ -353,6 +353,7 @@ conference.
 Created [Escape from the Funky Factory](https://github.com/featherless/2003-EscapeFromTheFunkyFactory) in collaboration with The Developers Alliance.
 
 ![Screenshot](https://raw.githubusercontent.com/featherless/2003-EscapeFromTheFunkyFactory/master/gfx/preview.gif)
+![Screenshot](https://raw.githubusercontent.com/featherless/2003-EscapeFromTheFunkyFactory/master/gfx/level3.png)
 
 ### 2003: March
 
