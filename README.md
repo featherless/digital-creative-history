@@ -148,11 +148,6 @@ I took great care to polish the behavior of the bottom drawer. Notable behavior 
 - the ability to toss the drawer into a full-screen mode in a natural manner,
 - support for mid-expansion and full-expansion.
 
-One thing I would have liked to improve is for content to detach momentarily as the rubber-banding
-is taking effect the content. This would provide a better hint to the: a toss to the top
-user for how to dismiss the content.
-
-
 
 <p align="center">↑ turned 25 :: Launched Google Maps iOS :: 2012 ↑</p>
 
