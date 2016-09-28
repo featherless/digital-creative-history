@@ -23,6 +23,28 @@ applications. More and more I'm mentoring Googlers on the Swift language.
 
 Read my personal blog at [design.featherless.software](http://design.featherless.software/).
 
+### 2016: September
+
+Writing accompanying my [2016 day 270 mix](https://soundcloud.com/featherless/2016-day-270):
+
+"Happiness can be felt like floating in the wake of a passing ship, the intensity rising with the wave's edge and settling once more with new, ever-softening oscillations that persist long after the vessel has passed. Happiness in this light is unavoidable and altering. How we *receive* happiness depends entirely on us. Do we allow ourselves to be lifted? Do we hide beneath the surface? Are we anchored to the ocean floor and pulled beneath the water as the wave passes over us? Or are we buoyant, absorbing the energy and seeing past the horizon because of the ephemeral elevation?
+
+The term buoyant has two meanings: "able to stay afloat" along with "cheerful and optimistic". I think that we become most open to the energy brought by happiness when we allow ourselves to be buoyant.
+
+I believe that buoyancy is an innate human trait. As childhood optimism evolves into caution and eventually skepticism, we often begin to feel that this innate trait is a skill that must be practiced. The problem with this mentality is that it places buoyancy in the same prioritization queue as other skills, such as a job or maintaining social status. What if, instead of treating buoyancy as a skill, we evaluated the existing priorities in our life and whether or not they are enabling us to float? How might we best structure our lives to be lifted by happiness when it washes over us? Are our actions and routines anchoring us down, or are they enabling us to be buoyant?"
+
+### 2016: August
+
+Writing accompanying my [2016 day 257 mix](https://soundcloud.com/featherless/2016-day-257-les-post-dust):
+
+"The dust gets in everything. Your clothes. Your heart. Your mind. Decompression this year felt fine until I had a moment to myself, to settle in and reflect on a truly immersive burn. Suddenly the dust came pouring out.
+
+In this day, where most of our Familial connections are sustained across borders through digital wires, the value of having, even for a brief period of time, so much Family within biking distance is immeasurable. As our Families scatter to the winds across the land and sea again, I'm immensely grateful for each moment of ephemeral playa serendipity and for that brief feeling of being truly at Home."
+
+### 2016: June
+
+Began development of Material Motion in the open. [Weekly updates](https://material-motion.gitbooks.io/material-motion-team/content/weekly_updates/).
+
 ### 2016: April
 
 Had a blast making one hour of a 24 hour mix collection of music with a friend.
