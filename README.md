@@ -48,6 +48,10 @@ Writing accompanying my [2016 day 257 mix](https://soundcloud.com/featherless/20
 
 In this day, where most of our Familial connections are sustained across borders through digital wires, the value of having, even for a brief period of time, so much Family within biking distance is immeasurable. As our Families scatter to the winds across the land and sea again, I'm immensely grateful for each moment of ephemeral playa serendipity and for that brief feeling of being truly at Home."
 
+### 2016: August
+
+Solo-camped on the playa. Building nothing was wonderfully cathartic.
+
 ### 2016: June
 
 Began development of Material Motion in the open. [Weekly updates](https://material-motion.gitbooks.io/material-motion-team/content/weekly_updates/).
