@@ -25,6 +25,14 @@ Read my personal blog at [design.featherless.software](http://design.featherless
 
 ### 2016: September
 
+Writing accompanying my [2016 day 271 mix](https://soundcloud.com/featherless/2016-day-271):
+
+    Two waves collide and build a rebellious harmony.
+    Accustomed to discord, to chaotic dissonance,
+    to peaks met with valleys and valleys, peaks,
+    this beautiful amplification, this synchronous resonance
+    is but a forgotten friend. Remember.
+
 Writing accompanying my [2016 day 270 mix](https://soundcloud.com/featherless/2016-day-270):
 
 "Happiness can be felt like floating in the wake of a passing ship, the intensity rising with the wave's edge and settling once more with new, ever-softening oscillations that persist long after the vessel has passed. Happiness in this light is unavoidable and altering. How we *receive* happiness depends entirely on us. Do we allow ourselves to be lifted? Do we hide beneath the surface? Are we anchored to the ocean floor and pulled beneath the water as the wave passes over us? Or are we buoyant, absorbing the energy and seeing past the horizon because of the ephemeral elevation?
