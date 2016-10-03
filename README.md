@@ -1,9 +1,8 @@
 # Digital Creative History
 
-Hey. The name's Jeff. I love to learn, experiment, and create.
+Hey. I love to learn, experiment, create, and share.
 
-My digital authorship is generalled signed with  "featherless". This repo is the index of my
-[featherless](https://github.com/featherless) org where I attempt to capture reflections on the
+My digital authorship is penned "featherless". This repo is an attempt to capture reflections on the
 works I've taken part in.
 
 Welcome to my digital creative history. It will always be a work in progress.
