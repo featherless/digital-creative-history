@@ -52,6 +52,12 @@ In this day, where most of our Familial connections are sustained across borders
 
 Solo-camped on the playa. Building nothing was wonderfully cathartic.
 
+<p align="center">↑ turned 29 :: 2016 ↑</p>
+
+---
+
+---
+
 ### 2016: June
 
 Began development of Material Motion in the open. [Weekly updates](https://material-motion.gitbooks.io/material-motion-team/content/weekly_updates/).
@@ -115,13 +121,171 @@ Also left mid-way through burn week to fly directly to a friend's wedding in Tor
 
 ![Screenshot](https://github.com/featherless/ShadyBot/raw/master/photos/IMG_1721.JPG)
 
-
-
-<p align="center">↑ turned 27 :: Returned to Google :: 2014 ↑</p>
+<p align="center">↑ turned 27 :: 2014 ↑</p>
 
 ---
 
 ---
+
+### 2014: January
+
+Please note, what follows is an **emotionally sensitive post**. Please leave now if you'd rather not read it.
+
+---
+
+#### certainty and taxes
+
+Hey Mom, how're you feeling?
+
+Pretty crummy!
+
+Drink lots of soup! And make sure to get some sleep. Do you think you'll be able to help me with my taxes this year?
+
+Of course.
+
+Awesome, thanks Mom! Gotta go, gonna work on some projects. Love you bye!
+
+Love you bye!
+
+<i>click</i>
+
+---
+
+    Year: 2010
+    Age: 22
+    First week, final term - Computer Sci. undergrad
+
+It’s a Thursday morning and I'm hungover.
+
+My phone is making this *abundantly* clear as it's rattling along the wooden floor. *The alarm*. Damn it. I don't want to wake up right now. Blurred numbers fade into focus on the clock beside me: **early**.
+
+It’s the first week of my last term in school. In four months I'm starting my first full-time software engineering position. Things are looking great. My weekly schedule involves sleeping in every day and having a three day weekend, giving me plenty of time for side projects. I think today I'll work on the website for the uwdata api...wait, *why the hell is my alarm on?*
+
+The phone's on its face. I flip it over and reflexively start disabling the alarm.
+
+It’s not my alarm.
+
+My cell phone’s ringing.
+
+*Home*, it glows.
+
+> My mom and 17 year old sister both live in Alberta, two time zones behind me at the time. Early rising was not our thing. This call...this call is peculiar.
+
+Ah well - a quick drag of my finger across the screen and I lay the phone on the side of my head. I'm still in bed.
+
+“Waddaaap”
+
+“She's not”
+
+> It's my sister. I can't make out what she says because she starts sobbing.
+
+"Jess, what's going on?"
+
+"She's not, she's not....she's not BREATHING"
+
+> *Jesus, what is she talking about?*
+
+“What do you mean Jess?”
+
+"It's mooooom, she's not breathing!!!"
+
+"What? What happened?"
+
+> I’m sitting up.
+
+"She's not breathing!!"
+
+"Jess slow down everything's going to be ok did you call 911?"
+
+"Yeeeeeesss the paramedics are here right now but she's not breeeeeathing!"
+
+"Ok tell me what happened.”
+
+> *This can’t be real.* My entire attention is focused on my sister's voice.
+
+> *Please. Please don't let this be as bad as it's sounding.*
+
+"I came upstairs *sob* to go to school and *sob* Mom hadn’t come downstairs *sob* to wake me up which was weird *sob* so I was about to leave for school *sob* but I went to check on her in her room *sob* and she was laying on the side of the bed *sob* weirdly with her legs off the side”
+
+> She's hyper-ventilating.
+
+"Jess slow down. Take a deep breath. Keep telling me what happened.”
+
+“…I said to her 'Moom why are you laying down like that?' because she was half on the bed and it was really weird but when I went over to her she was blue and cold oh my gooood I tried to do CPR but she was so heavy when I tried to pull her off the bed and she won’t wake uuuuup“
+
+> *fuck. fuck fuck fuck*
+
+"Ok you did as much as you could Jess. You called 911 and the paramedics are helping her right?”
+
+"Yeeeeah they're in the bedroom right now why isn't she breeaaathing?"
+
+"Jess it's ok I'm sure the paramedics will be able to hel..."
+
+I hear a voice in the background and my sister drops the phone.
+
+> I will never, ever forget that scream for the rest of my life.
+
+I'm staring at my bedsheets. Or maybe nothing. Everything is blank.
+
+A new voice is speaking on the phone. It's Jess's boyfriend.
+
+"One of the paramedics just came out of the room. I’m sorry. Your mother's passed away."
+
+*nothingness*
+
+---
+
+The next twelve hours blur. I call my granddad, my dad, and my girlfriend at her work. We arrived in Edmonton that evening and met my sister at her boyfriend's house.
+
+It still hadn't hit me.
+
+It didn't hit me Friday when we went to see the body, or on Mother's Day the following day, or even after we gave the first funeral service on Tuesday. I somehow managed to sing the Irish Blessing with my grandfather.
+
+I was back home in Waterloo, sitting at the kitchen table by myself. A full week later. Thursday, 3am.
+
+I cried. I cried, and cried, and cried. I cried at the un-realness of it, at the cruelty of it, at the thought that my sister and I had just had the one person who mattered most to us taken away without so much as a hug, a kiss, or even a simple goodbye. Who would help my sister at her wedding? Who would be there for our graduations, crying with pride? Who would we play pranks on at Christmas every year?
+
+The closeness of the idea that one can be of visibly fine health one evening and the next morning not make it out of bed shook me to the core. How does one move forward when the prospect of death becomes so permanently real? What if you might not be able to say "bye" to the ones you love?
+
+Maybe the last thing you’ll talk to them about will be taxes.
+
+---
+
+*My mother died because of a pulmonary embolism on May 6, 2010.*
+
+---
+
+Life after death modified my behaviour in subtle, powerful ways.
+
+The concept that anyone close to me could disappear forever became the forefront in my thinking. *I* could disappear forever.
+
+My initial reaction was to throw myself into my work, to hide behind the short-term feedback loop of skill and hard work. To create and build as much as I could as fast as I could because every piece of my being could be extinguished in a heartbeat, or lack thereof.
+
+This burnt me out.
+
+In giving myself entirely, I learned a valuable lesson. Happiness is shared, not given. You can give and give and give only to be left empty, with no happiness left for yourself. But if you share and share and share, then happiness has a way of returning to you, of fulfilling you, of nurturing your soul and causing you to overflow with joy.
+
+It was at this point that I began to understand the value of creating open source software. It is why everything that I create is open sourced and the code that I write for companies is written in such a way that any team can utilize it. It's why I adopted the idea of "documentation is greater than source".
+
+By ensuring that anything I create can be shared and grown even in my absence, I choose to overcome the fear of my own death.
+
+This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. It made me happier, more energetic, and in the end I was still at *least* as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
+
+My mother's death shocked me straight to the core and it wasn't my choice. But I believe that the choices I've made since her death have lead me to a fuller life, a life in which each moment is a precious opportunity to connect to, to share with, and to be challenged by others.
+
+I know that I know very little, but this I know right now: give the best of yourself, whether to friend or acquaintance, because you might not get to clean things up later.
+
+♥
+
+*May the road rise up to meet you.<br/>
+May the wind be always at your back.<br/>
+May the sun shine warm upon your face;<br/>
+and the rains fall soft upon your fields.*
+
+*Until we meet again, my friend,<br/>
+may God hold you in the palm of His hand.*
+
+*- Traditional Irish Blessing -*
 
 ### 2013: August
 
