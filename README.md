@@ -267,7 +267,7 @@ In giving myself entirely, I learned a valuable lesson. Happiness is shared, not
 
 It was at this point that I began to understand the value of creating open source software. It is why everything that I create is open sourced and the code that I write for companies is written in such a way that any team can utilize it. It's why I adopted the idea of "documentation is greater than source".
 
-By ensuring that anything I create can be shared and grown even in my absence, I choose to overcome the fear of my own death.
+By ensuring that anything I create can be shared and grown even in my absence, I choose to turn the fear of my own death into a creative outlet, a purpose, and a belief in the value of positivity.
 
 This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. It made me happier, more energetic, and in the end I was still at *least* as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
 
