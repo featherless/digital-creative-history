@@ -269,7 +269,7 @@ It was at this point that I began to understand the value of creating open sourc
 
 By ensuring that anything I create can be shared and grown even in my absence, I choose to turn the fear of my own death into a creative outlet, a purpose, and a belief in the value of positivity.
 
-This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. It made me happier, more energetic, and in the end I was still at *least* as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
+This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. This form of meta-work made me happier, more energetic, and in the end I was still at *least* as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
 
 My mother's death shocked me straight to the core and it wasn't my choice. But I believe that the choices I've made since her death have lead me to a fuller life, a life in which each moment is a precious opportunity to connect to, to share with, and to be challenged by others.
 
