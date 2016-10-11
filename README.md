@@ -255,21 +255,21 @@ Maybe the last thing you’ll talk to them about will be taxes.
 
 ---
 
-Life after death modified my behaviour in subtle, powerful ways.
+Life after death modified my behavior in subtle, powerful ways.
 
-The concept that anyone close to me could disappear forever became the forefront in my thinking. *I* could disappear forever.
+The concept that anyone close to me could disappear forever became the forefront in my thinking. I could disappear forever.
 
 My initial reaction was to throw myself into my work, to hide behind the short-term feedback loop of skill and hard work. To create and build as much as I could as fast as I could because every piece of my being could be extinguished in a heartbeat, or lack thereof.
 
 This burnt me out.
 
-In giving myself entirely, I learned a valuable lesson. Happiness is shared, not given. You can give and give and give only to be left empty, with no happiness left for yourself. But if you share and share and share, then happiness has a way of returning to you, of fulfilling you, of nurturing your soul and causing you to overflow with joy.
+I learned a valuable lesson as a result of giving myself entirely: happiness must be shared, not given. You can give and give and give only to be left empty, with no happiness left for yourself. But when you find people to share with, then happiness has a way of returning to you, of fulfilling you, of nurturing your soul and causing you to overflow with joy.
 
-It was at this point that I began to understand the value of creating open source software. It is why everything that I create is open sourced and the code that I write for companies is written in such a way that any team can utilize it. It's why I adopted the idea of "documentation is greater than source".
+It was at this point that I began to understand the value of creating open source software. It is why everything that I create is open sourced and the code that I write for companies is written in such a way that it has utility long after I've left. It's why I adopted the idea of "documentation is greater than source".
 
 By ensuring that anything I create can be shared and grown even in my absence, I choose to turn the fear of my own death into a creative outlet, a purpose, and a belief in the value of positivity.
 
-This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. This form of meta-work made me happier, more energetic, and in the end I was still at *least* as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
+This is also the point when I adopted "work hard to not work hard". Rather than doing the same "work" for 80 hours a week, I began spending twenty or thirty hours, often returning home while the sun was still up. This form of meta-work on myself made me happier, more energetic, and in the end I was still at least as productive as my co-workers. The added-bonus: more time to explore other aspects of life. These explorations fed positively back into my work, making me more productive and needing to spend less time at work.
 
 My mother's death shocked me straight to the core and it wasn't my choice. But I believe that the choices I've made since her death have lead me to a fuller life, a life in which each moment is a precious opportunity to connect to, to share with, and to be challenged by others.
 
