@@ -257,7 +257,7 @@ Maybe the last thing you’ll talk to them about will be taxes.
 
 Life after death modified my behavior in subtle, powerful ways.
 
-The concept that anyone close to me could disappear forever became the forefront in my thinking. I could disappear forever.
+The concept that anyone close to me could disappear forever became the forefront of my thinking. I could disappear forever.
 
 My initial reaction was to throw myself into my work, to hide behind the short-term feedback loop of skill and hard work. To create and build as much as I could as fast as I could because every piece of my being could be extinguished in a heartbeat, or lack thereof.
 
