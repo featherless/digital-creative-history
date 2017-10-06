@@ -20,7 +20,7 @@ Working at Google. I mentor teams interested in operating in the open. I advise 
 designing shared software libraries that are used across Google's 80+ shipping iOS
 applications. More and more I'm mentoring Googlers on the Swift language.
 
-Read my personal blog at [design.featherless.software](http://design.featherless.software/).
+Read my personal blog at [design.featherless.software](https://github.com/featherless/blog/tree/master/_posts).
 
 ### 2016: September
 
