@@ -22,6 +22,32 @@ applications. More and more I'm mentoring Googlers on the Swift language.
 
 Read my personal blog at [design.featherless.software](https://github.com/featherless/blog/tree/master/_posts).
 
+### 2017: December
+
+Released my fourth track, [Denizens of the Astro Light](https://soundcloud.com/featherless/denizens-of-the-astro-light?in=featherless/sets/luna-ep).
+
+<p align="center">↑ turned 30 :: 2017 ↑</p>
+
+---
+
+---
+
+### 2017: June
+
+Released my thrid track, [New Moon Horizon](https://soundcloud.com/featherless/new-moon-horizon?in=featherless/sets/luna-ep).
+
+### 2017: May
+
+Released my second track, [Summer Skylands](https://soundcloud.com/featherless/sets/summer-skylands).
+
+### 2017: April
+
+Released my first track, [Lunar City](https://soundcloud.com/featherless/featherless-lunar-city?in=featherless/sets/luna-ep).
+
+### 2016: December
+
+Started learning how to compose music. Enrolled in a few online Ableton classes and started making simple loops.
+
 ### 2016: September
 
 Writing accompanying my [2016 day 271 mix](https://soundcloud.com/featherless/2016-day-271):
