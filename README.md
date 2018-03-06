@@ -40,6 +40,8 @@ Released my third track, [New Moon Horizon](https://soundcloud.com/featherless/n
 
 Released my second track, [Summer Skylands](https://soundcloud.com/featherless/sets/summer-skylands).
 
+Also launched a website aimed at promoting my electronic music productions: [featherless.live](https://featherless.live).
+
 ### 2017: April
 
 Released my first track, [Lunar City](https://soundcloud.com/featherless/featherless-lunar-city?in=featherless/sets/luna-ep).
