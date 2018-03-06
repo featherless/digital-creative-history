@@ -34,7 +34,7 @@ Released my fourth track, [Denizens of the Astro Light](https://soundcloud.com/f
 
 ### 2017: June
 
-Released my thrid track, [New Moon Horizon](https://soundcloud.com/featherless/new-moon-horizon?in=featherless/sets/luna-ep).
+Released my third track, [New Moon Horizon](https://soundcloud.com/featherless/new-moon-horizon?in=featherless/sets/luna-ep).
 
 ### 2017: May
 
