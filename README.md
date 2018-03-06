@@ -413,6 +413,26 @@ Second internship at Facebook.
 I worked with Owen Yamauchi and Joe Hewitt on the Facebook iOS app. I took ownership of the
 Three20 project after the internship.
 
+### 2009: October
+
+I shut down the Strips web comic reader due to a strong community backlash resulting from the
+way in which I handled the comic artist relationships:
+
+> A formal apology - Oct 26, 2009
+>
+> I want to formally apologize to each of the artists that were listed on Strips without explicit consent. The rationale behind doing this was shortsighted and boneheaded. I want to explain my rationale to anyone interested in hearing it.
+As a fan of a number of web comics I spent a lot of time reading them on the iPhone, struggling with Safari to read each strip. This summer, I decided to try my hand at making an iPhone application that would make it easier to read comics on the iPhone. I started by building an application and, over the proceeding weeks, sent out emails to approximately 20 artists asking them if they would like to be a part of the app. Included in the emails were details about how artists would receive ad revenue and how they could contact me with respect to being included. For each publisher I also made an information page, showing exactly how the process worked. Here's PvP's and 8-Bit Theater's.
+> I hoped that this would be above-and-beyond the existing iPhone apps that display comics without any ads or even a hint at working with the artists. In theory I believed this was an honorable approach, but I became too eager with the product and released it before receiving explicit consent from a number of artists, hoping that I could provide each artist with useful analytics in the meantime.
+> As the weeks went on, I finished the app and submitted it to the app store. At that point, I had only received word from a couple web comics including Dinosaur Comics and Ctrl+Alt+Delete. Both asked to not be a part of the app, and so I immediately made sure that they weren't listed. The problem with this approach is that it's opt-out, when it should have been opt-in from the start.
+> A result of this is the recent understandable backlash from a number of artists concerning their content being available on Strips. I want to iterate as much as possible that I am more than willing to work with artists to help them publish their content on the iPhone, but that I have gone about it absolutely the wrong way thus far.
+> I'm trying my best to work with each of the artists, but it's hard to find the contact information for some comics. If you are an artist and you want to discuss this whole issue, I am more than willing to email you, but it would help if you provide me with your email address first. You can contact me through publishers@stripsapp.com.
+> At the end of the day, I created this out of passion for software development and web comics. It's a glorified RSS reader for the iPhone with a hopeful tie-in for artists to receive an extra source of revenue. I'm sincerely apologetic to the comics I haven't properly contacted and as someone who sincerely did this with the hopes of helping out comics in the end, I feel that I have failed in my goal.
+> Sincerely,
+> - Jeff
+
+### 2009: June to August
+
+Built the Strips web comic reader and platform for the iPhone.
 
 
 <p align="center">↑ turned 22 :: entered fifth year of university :: 2009 ↑</p>
