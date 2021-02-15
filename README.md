@@ -16,13 +16,52 @@ past**. Creations are bucketed by month and I provide my annual birth date for a
 
 ### Today
 
-Working at Google. I mentor teams interested in operating in the open. I advise on
-designing shared software libraries that are used across Google's 80+ shipping iOS
-applications. More and more I'm mentoring Googlers on the Swift language.
+I work at Google.
 
-Read my personal blog at [design.featherless.software](https://github.com/featherless/blog/tree/master/_posts).
+I lead the Material iOS engineering team, working closely with designers and engineers to help Google's 100+ apps align on common brand patterns in their app UI.
+
+My team is responsible for maintaining and supporting every navigation bar, tab bar, dialog, activity indicator, progress bar, button, font, color, and icon you interact with in Google apps.
+
+I also provide support for large-scale dependency and use analysis within the company through the analysis of [Kythe](https://kythe.io/) references and bazel dependencies.
+
+<p align="center">↑ turned 33 :: 2020 ↑</p>
+
+---
+
+---
+
+### 2019: December
+
+Published the [Windfish disassembler](https://github.com/jverkoey/windfish), a tool for disassembling Gameboy ROMs.
+
+### 2020: January
+
+Promoted to Staff Software Engineer (L6) at Google.
+
+<p align="center">↑ turned 32 :: 2019 ↑</p>
+
+---
+
+---
+
+### 2019: August
+
+Started working on a tracing disassembler for Gameboy ROMs.
+Eventually published this as the <a href="https://github.com/jverkoey/windfish">Windfish disassembler</a> in December 2020.
+
+### 2019: February
+
+Created the [BinaryCodable](https://github.com/jverkoey/BinaryCodable) module for Swift.
+
+<p align="center">↑ turned 31 :: 2018 ↑</p>
+
+---
+
+---
 
 ### 2017: December
+
+My daughter, Eva, was born.
 
 Released my fourth track, [Denizens of the Astro Light](https://soundcloud.com/featherless/denizens-of-the-astro-light?in=featherless/sets/luna-ep).
 
