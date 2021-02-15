@@ -24,15 +24,15 @@ My team is responsible for maintaining and supporting every navigation bar, tab 
 
 I also provide support for large-scale dependency and use analysis within the company through the analysis of [Kythe](https://kythe.io/) references and bazel dependencies.
 
+### 2020: December
+
+Published the [Windfish disassembler](https://github.com/jverkoey/windfish), a tool for disassembling Gameboy ROMs.
+
 <p align="center">↑ turned 33 :: 2020 ↑</p>
 
 ---
 
 ---
-
-### 2019: December
-
-Published the [Windfish disassembler](https://github.com/jverkoey/windfish), a tool for disassembling Gameboy ROMs.
 
 ### 2020: January
 
